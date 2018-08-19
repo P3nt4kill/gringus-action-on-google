@@ -1,3 +1,3 @@
-# gringu_action_on_google
+# Gringu Action on Google
 
 Código implementado na plataforma cloud functions da Google 
